@@ -7,3 +7,9 @@
 |  #  | Question                                                          | Solution        | Quiz | Done |
 |-----|------------------------------------------------------------------ | --------------- | ---- | ---- |
 | 1   | [Enhanced Flexible Grid]() | Solution | Quiz#1 |  |
+
+======
+## String
+|  #  | Question                                                          | Key | Solution        | Quiz | Done |
+|-----|------------------------------------------------------------------ | --- | --------------- | ---- | ---- |
+| 1   | LC3.Longest Substring Without Repeating Characters | SlidingWindow | Solution | Quiz#1 |  |
