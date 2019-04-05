@@ -27,7 +27,7 @@ class Solution {
 for (String str : set) {  
       System.out.println(str);  
  }  
-
+Java里面没有连续小于： a < b <= 102 是不对的。需要写成 a < 102 && b < 102, a <=b 
 这个题目主要是指针，hashset；
 关键在于
 不重复的时候，一直更新保存结果。
