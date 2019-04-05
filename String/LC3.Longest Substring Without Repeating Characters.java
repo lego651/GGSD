@@ -27,3 +27,8 @@ class Solution {
 //for (String str : set) {  
 //       System.out.println(str);  
 // }  
+
+这个题目主要是指针，hashset；
+关键在于
+不重复的时候，一直更新保存结果。
+如果出现重复，如何删除重复和其之前的所有内容。 例如abcrbde. 在找到第二个b 的时候意味着要删除第一个b 和他之前的所有元素。
