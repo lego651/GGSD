@@ -23,10 +23,10 @@ class Solution {
     }
 }
 
-// 这道题目如果要输出longest substring， 
-//for (String str : set) {  
-//       System.out.println(str);  
-// }  
+这道题目如果要输出longest substring， 
+for (String str : set) {  
+      System.out.println(str);  
+ }  
 
 这个题目主要是指针，hashset；
 关键在于
