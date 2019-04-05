@@ -12,4 +12,4 @@
 ## String
 |  #  | Question                                                          | Key | Solution        | Quiz | Done |
 |-----|------------------------------------------------------------------ | --- | --------------- | ---- | ---- |
-| 1   | [LC3.Longest Substring Without Repeating Characters](https://github.com/lego651/GGSD/blob/master/String/LC3.Longest%20Substring%20Without%20Repeating%20Characters.java) | SlidingWindow | Solution | Quiz#1 |  |
+| 1   | [LC3.Longest Substring Without Repeating Characters](https://github.com/lego651/GGSD/blob/master/String/LC3.Longest%20Substring%20Without%20Repeating%20Characters.java) | SlidingWindow | Solution | Quiz#1 | Y |
