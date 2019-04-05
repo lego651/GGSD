@@ -7,7 +7,8 @@ class Solution {
         int i = 0, j = 0, maxLength = 0;
         Set<Character> set = new HashSet<>();
         // ij 两个指针，j 开始扫描，
-        while(i < s.length() && j < s.length()){
+        //while(i < s.length() && j < s.length()){ 双指针在后面会规定左边不超过右边，所以一开始就定义右边
+        while(j < s.length()){
             if(!set.contains(s.charAt(j))){
                 // 如果set 里面没有j 就把j 放入set,然后继续往后扫描j, 同时更新目标长度
                 set.add(s.charAt(j));
