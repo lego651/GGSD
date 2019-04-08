@@ -19,4 +19,5 @@
 ## Data Structure
 |  #  | Question                                                          | Key | Solution        | Quiz | Done |
 |-----|------------------------------------------------------------------ | --- | --------------- | ---- | ---- |
-|  1  | 347. Top K Frequent Elements | PriorityQueue | [Solution]| NA |  |
+|  1  | 347. Top K Frequent Elements | Priority Queue | [Solution]| NA |  |
+|  2  | 21. Merge Two Sorted Lists | Linked List | [Solution]| NA |  |
