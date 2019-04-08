@@ -21,3 +21,5 @@
 |-----|------------------------------------------------------------------ | --- | --------------- | ---- | ---- |
 |  1  | 347. Top K Frequent Elements | Priority Queue | [Solution]| NA |  |
 |  2  | 21. Merge Two Sorted Lists | Linked List | [Solution]| NA |  |
+|  3  | 141. Linked List Cycle | Linked List | [Solution]| NA |  |
+|  4  | 234. Palindrome Linked List | Linked List | [Solution]| NA |  |
