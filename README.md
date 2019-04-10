@@ -34,3 +34,8 @@
 |  6  | 84. Largest Rectangle in Histogram | Stack | [Solution]| NA |  |
 |  7  | 232. Implement Queue using Stacks | Stack | [Solution]| NA |  |
 
+## Dynamic Programming
+|  #  | Question                                                          | Solution        | Quiz | Done |
+|-----|------------------------------------------------------------------ | --------------- | ---- | ---- |
+| 1   | 120. Triangle | Solution | Quiz#1 |  |
+
