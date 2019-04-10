@@ -32,3 +32,5 @@
 |  4  | 141. Linked List Cycle | Linked List | [Solution]| NA |  |
 |  5  | 234. Palindrome Linked List | Linked List | [Solution]| NA |  |
 |  6  | 84. Largest Rectangle in Histogram | Stack | [Solution]| NA |  |
+|  7  | 232. Implement Queue using Stacks | Stack | [Solution]| NA |  |
+
