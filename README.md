@@ -31,3 +31,4 @@
 |  3  | 21. Merge Two Sorted Lists | Linked List | [Solution]| NA |  |
 |  4  | 141. Linked List Cycle | Linked List | [Solution]| NA |  |
 |  5  | 234. Palindrome Linked List | Linked List | [Solution]| NA |  |
+|  6  | 84. Largest Rectangle in Histogram | Stack | [Solution]| NA |  |
