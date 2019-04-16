@@ -1,4 +1,38 @@
-Interface, Inheritance, Abstract Class
+Interface, Abstract Class, Inheritance
+
+语法层面
+
+abstract class的方式定义Demo抽象类的方式如下：
+```java
+abstract class Demo ｛
+    abstract void method1();
+    abstract void method2();
+    …
+｝
+```
+
+interface的方式定义Demo抽象类的方式如下
+```java
+interface Demo {
+    void method1();
+    void method2();
+    …
+}
+```
+在abstract class方式中，Demo可以有自己的数据成员，也可以有非abstarct的成员方法，而在interface方式的实现中，Demo只能够有静态的不能被修改的数据成员（也就是必须是static final的，不过在interface中一般不定义数据成员），所有的成员方法都是abstract的。从某种意义上说，interface是一种特殊形式的abstract class。
+
+abstract class表示的是"is a"关系，interface表示的是"like a"关系，大家在选择时可以作为一个依据，当然这是建立在对问题领域的理解上的
+
+abstract class 是对本质的抽象，目的是代码重复利用。比如把男人女人抽象为人。所以一个class 只能有一个abstract class, 不能是男人又是女人。
+
+Interface 是对动作行为的抽象，目的是约束动作。比如吃饭喝水走路，所以一个class 可以有多个interface. 一个interface 也可以有多个interface, 因为可以在走路里，走山路走马路。
+
+
+Inheritance: is the process by which one object acquires the properties of another object
+
+Why multiple inheritance is not supported through class in Java, but it can be possible through interface ?
+
+Multiple inheritance is not supported by class because of ambiguity. In case of interface there is no ambiguity because implementation to method(s) is provided by the implementing class. 
 
 
 浅谈Java面试过程中的Encapsulation, Inheritance and Polymorphism
