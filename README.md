@@ -7,7 +7,7 @@
 ## Java
 |  #  | Question                                                          | Solution        | Quiz | Done |
 |-----|------------------------------------------------------------------ | --------------- | ---- | ---- |
-|  1  | Compare: Interface, Inheritance, Abstract Class | [Solution] (https://github.com/lego651/GGSD/blob/master/Java/Java/Interface-Inheritance-AbstractClass.md)| | Y |
+|  1  | Compare: Interface, Inheritance, Abstract Class | [Solution](https://github.com/lego651/GGSD/blob/master/Java/Java/Interface-Inheritance-AbstractClass.md)| | Y |
 
 ## HTML
 |  #  | Question                                                          | Solution        | Quiz | Done |
