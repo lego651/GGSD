@@ -1,13 +1,13 @@
 ## Javascript - Explain
 |  #  | Question                                                          | Solution        | Quiz | Done |
 |-----|------------------------------------------------------------------ | --------------- | ---- | ---- |
-| 1   | Explain JS closure, (dis)advantages analysis | [Solution#1](https://github.com/lego651/GGSD/blob/master/Javascript/1.JS_Closure.md) | Quiz#1 | Y |
-| 1   | Explain JS Inheritance, prototypical inheritance | [Solution#1](https://github.com/lego651/GGSD/blob/master/Javascript/1.JS_Closure.md) | | Y |
+| 1   | Explain JS closure, (dis)advantages analysis | [Solution](https://github.com/lego651/GGSD/blob/master/Javascript/1.JS_Closure.md) | Quiz#1 | Y |
+| 1   | Explain JS Inheritance, prototypical inheritance | [Solution] | | Y |
 
 ## Java
 |  #  | Question                                                          | Solution        | Quiz | Done |
 |-----|------------------------------------------------------------------ | --------------- | ---- | ---- |
-|  1  | Compare: Interface, Inheritance, Abstract Class | [Solution#1] (https://github.com/lego651/GGSD/blob/master/Java/Interface,Inheritance,AbstractClass.md)| | Y |
+|  1  | Compare: Interface, Inheritance, Abstract Class | [Solution] (https://github.com/lego651/GGSD/blob/master/Java/Java/Interface-Inheritance-AbstractClass.md)| | Y |
 
 ## HTML
 |  #  | Question                                                          | Solution        | Quiz | Done |
