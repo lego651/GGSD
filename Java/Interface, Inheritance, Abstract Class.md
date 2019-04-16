@@ -1,4 +1,4 @@
-Interface, Abstract Class, Inheritance
+# Interface, Abstract Class, Inheritance
 
 语法层面
 
@@ -28,16 +28,16 @@ abstract class 是对本质的抽象，目的是代码重复利用。比如把�
 Interface 是对动作行为的抽象，目的是约束动作。比如吃饭喝水走路，所以一个class 可以有多个interface. 一个interface 也可以有多个interface, 因为可以在走路里，走山路走马路。
 
 
-Inheritance: is the process by which one object acquires the properties of another object
+# Inheritance: is the process by which one object acquires the properties of another object
 
 Why multiple inheritance is not supported through class in Java, but it can be possible through interface ?
 
 Multiple inheritance is not supported by class because of ambiguity. In case of interface there is no ambiguity because implementation to method(s) is provided by the implementing class. 
 
 
-浅谈Java面试过程中的Encapsulation, Inheritance and Polymorphism
+# 浅谈Java面试过程中的Encapsulation, Inheritance and Polymorphism
 
-Encapsulation: is the mechanism that binds together code and data it manipulates and keeps both safe from outside interference and misuse.
+## Encapsulation: is the mechanism that binds together code and data it manipulates and keeps both safe from outside interference and misuse.
 
 我们常说OOP 的coding要考虑到maintainability, flexibility and extensibility，换句话说， Encapsulation的好坏直接影响着code本身的质量。Open for extension, Closed for modification. 从下面的例子中我们可以发现Encapsulation的作用：
 
@@ -82,7 +82,7 @@ A class can have total control over what is stored in its fields.
 The users of a class do not know how the class stores its data. A class can change the data type of a field and users of the class do not need to change any of their code.
 
 
-Inheritance: is the process by which one object acquires the properties of another object
+## Inheritance: is the process by which one object acquires the properties of another object
 有时候面试官会问面试者什么是 IS-A relationship? 其实IS-A relationship就指的是Inheritance。
 
 ```java
@@ -131,7 +131,7 @@ Hence : Dog IS-A Animal as well
 
 
 
-Polymorphism: is the feature that allows one interface to be used for general class actions.
+## Polymorphism: is the feature that allows one interface to be used for general class actions.
 从字面上理解，多态就是一种类型表现出多种状态。多态在Java用有两种实现方式， 我们通常称为静态绑定跟动态绑定。静态绑定就是说在程序运行之前进行绑定，由编译器和连接程序实现。比如overloading。 动态绑定在运行时根据对象的类型进行绑定，由方法调用机制实现。比如overriding。如何理解多态，请看下面的例子：
 
 ```java
