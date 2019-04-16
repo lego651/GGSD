@@ -35,7 +35,7 @@ public class EncapTest{
    }
 }
 
-```java
+```
 
 在上述的例子里我们可以看出Class EncapTest有两个private的member, 分别是 name 和 idNum. 但是我们向外部提供了public的接口允许我们去做set跟get的action. 或许有人会问上述的例子中，getter跟setter其实跟直接获取attributes或者给attributes赋值没有任何区别，但是为什么我们还是需要提供getter或者setter呢？
 
@@ -79,7 +79,7 @@ public class Dog extends Mammal{
    }
 }
 
-```java
+```
 
 我们有一个基本类叫做Animal, 然后我们定义了如下IS-A relationship. Mammal 是一种 Animal, Reptile 是另外一种 Animal. Mammal跟Reptile是相互并行的关系，他们的共同点就是他们都是一种 Animal. 而最后的 Dog 被明确的指出就是一种 Mammal 同时，我们也能说Dog 是一种 Animal.
 
@@ -189,7 +189,7 @@ public class VirtualDemo
     }
 }
 
-```java
+```
 
 This would produce the following result:
 
