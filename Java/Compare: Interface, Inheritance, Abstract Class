@@ -1,1 +1,42 @@
 Interface, Inheritance, Abstract Class
+
+
+浅谈Java面试过程中的Encapsulation, Inheritance and Polymorphism
+
+Encapsulation: is the mechanism that binds together code and data it manipulates and keeps both safe from outside interference and misuse.
+
+我们常说OOP 的coding要考虑到maintainability, flexibility and extensibility，换句话说， Encapsulation的好坏直接影响着code本身的质量。Open for extension, Closed for modification. 从下面的例子中我们可以发现Encapsulation的作用：
+
+'''java
+public class EncapTest{
+   private String name;
+   private String idNum;
+   private int age;
+   public int getAge(){
+      return age;
+   }
+   public String getName(){
+      return name;
+   }
+   public String getIdNum(){
+      return idNum;
+   }
+   public void setAge( int newAge){
+      age = newAge;
+   }
+   public void setName(String newName){
+      name = newName;
+   }
+
+
+   public void setIdNum( String newId){
+      idNum = newId;
+   }
+}
+'''java
+
+
+Inheritance: is the process by which one object acquires the properties of another object
+
+
+Polymorphism: is the feature that allows one interface to be used for general class actions.
