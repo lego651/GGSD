@@ -12,7 +12,7 @@
 ## HTML
 |  #  | Question                                                          | Solution        | Quiz | Done |
 |-----|------------------------------------------------------------------ | --------------- | ---- | ---- |
-| 1   | [Enhanced Flexible Grid](https://github.com/lego651/GGSD/blob/master/Images/Enhanced_gird_sys.png) | Solution | Quiz#1 |  |
+| 1   | [Enhanced Flexible Grid](https://github.com/lego651/GGSD/blob/master/Images/Enhanced_gird_sys.png) | [Solution](https://github.com/lego651/GGSD/blob/master/HTML/EnhancedFlexibleGrid.html) | Quiz#1 | Y |
 
 ======
 ## String & Array
@@ -26,7 +26,7 @@
 ## Data Structure
 |  #  | Question                                                          | Key | Solution        | Quiz | Done |
 |-----|------------------------------------------------------------------ | --- | --------------- | ---- | ---- |
-|  1  | 347. Top K Frequent Elements | Priority Queue | [Solution]| 703.Kth Largest Element in a Stream |  |
+|  1  | 347. Top K Frequent Elements | Priority Queue | [Solution]| 703.Kth Largest Element in a Stream |[Solution](https://github.com/lego651/GGSD/blob/master/DataStructure/LC347TopKFrequentElements.md) | Y |
 |  2  | 692. Top K Frequent Words | Priority Queue | [Solution]| NA |  |
 |  3  | 21. Merge Two Sorted Lists | Linked List | [Solution]| NA |  |
 |  4  | 141. Linked List Cycle | Linked List | [Solution]| NA |  |
