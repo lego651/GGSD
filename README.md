@@ -21,7 +21,7 @@
 | 1   | LC3.Longest Substring Without Repeating Characters | SlidingWindow | [Solution](https://github.com/lego651/GGSD/blob/master/String/LC3.Longest%20Substring%20Without%20Repeating%20Characters.java)| 要求返回String而不是 | Y |
 | 2   | 718. Maximum Length of Repeated Subarray | DynamicProgramming | [Solution]| NA |  |
 | 3   | 221. Maximal Square | DynamicProgramming | [Solution]| NA |  |
-| 4   | Maximal Subsring In a String | [Solution](https://github.com/lego651/GGSD/blob/master/String/MaximalSubsringInaString.md)| |  |Y |  
+| 4   | Maximal Subsring In a String| Two pointers | [Solution](https://github.com/lego651/GGSD/blob/master/String/MaximalSubsringInaString.md) | |Y |  
 
 ======
 ## Data Structure
