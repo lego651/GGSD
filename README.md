@@ -21,12 +21,13 @@
 | 1   | LC3.Longest Substring Without Repeating Characters | SlidingWindow | [Solution](https://github.com/lego651/GGSD/blob/master/String/LC3.Longest%20Substring%20Without%20Repeating%20Characters.java)| 要求返回String而不是 | Y |
 | 2   | 718. Maximum Length of Repeated Subarray | DynamicProgramming | [Solution]| NA |  |
 | 3   | 221. Maximal Square | DynamicProgramming | [Solution]| NA |  |
+| 4   | Maximal Subsring In a String | [Solution](https://github.com/lego651/GGSD/blob/master/String/MaximalSubsringInaString.md)| Y |  |
 
 ======
 ## Data Structure
 |  #  | Question                                                          | Key | Solution        | Quiz | Done |
 |-----|------------------------------------------------------------------ | --- | --------------- | ---- | ---- |
-|  1  | 347. Top K Frequent Elements | Priority Queue | [Solution]| 703.Kth Largest Element in a Stream |[Solution](https://github.com/lego651/GGSD/blob/master/DataStructure/LC347TopKFrequentElements.md) | Y |
+|  1  | 347. Top K Frequent Elements | Priority Queue | [Solution](https://github.com/lego651/GGSD/blob/master/DataStructure/LC347TopKFrequentElements.md)| 703.Kth Largest Element in a Stream |  |
 |  2  | 692. Top K Frequent Words | Priority Queue | [Solution]| NA |  |
 |  3  | 21. Merge Two Sorted Lists | Linked List | [Solution]| NA |  |
 |  4  | 141. Linked List Cycle | Linked List | [Solution]| NA |  |
